@@ -2,17 +2,17 @@
   "lives": [
     {
       "name": "GlobalIPTV/tv",
-      "url": "https://github.com/s-cyanide/TVBOX/blob/0e015c76ef2bbbe26374a0e797de5983497b50bb/Global.m3u",
+      "url": "https://github.com/s-cyanide/s-cyanide.github.io/blob/8bced97669aec8752c8ca09c167e5f1e6e743efb/Global.m3u",
       "type": 0
     },
     {
       "name": "HKMacauIPTV/tv",
-      "url": "https://github.com/s-cyanide/TVBOX/blob/0e015c76ef2bbbe26374a0e797de5983497b50bb/GATV.m3u",
+      "url": "https://github.com/s-cyanide/s-cyanide.github.io/blob/8bced97669aec8752c8ca09c167e5f1e6e743efb/GATV.m3u",
       "type": 0
     },
     {
       "name": "AdultIPTV/tv",
-      "url": "https://github.com/s-cyanide/TVBOX/blob/0e015c76ef2bbbe26374a0e797de5983497b50bb/Adult.m3u",
+      "url": "https://github.com/s-cyanide/s-cyanide.github.io/blob/8bced97669aec8752c8ca09c167e5f1e6e743efb/Adult.m3u",
       "type": 0
     }
   ]
